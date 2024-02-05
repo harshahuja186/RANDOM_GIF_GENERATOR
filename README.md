@@ -8,9 +8,11 @@ Welcome to the React.js Gif Explorer project! This application allows users to d
 - **Search Gifs:** Use the search functionality to find specific gifs based on keywords.
 - **Global State with Context:** Manage application state globally using React Context for seamless data sharing.
 
-## Demo
+<h1>🚀 Key Features:</h1>
 
-Check out our live demo [here](#) to explore the world of gifs!
+Random Gif Display: Explore a variety of random gifs on the homepage.
+Search Gifs: Find specific gifs by entering keywords.
+Global State with Context: Utilizes React Context for efficient global state management.
 
 ## Getting Started
 
